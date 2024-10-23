@@ -12,8 +12,8 @@ def open_url(url):
 
 if __name__ == "__main__":
     urls = [
-        "https://navigation.xunda.nyc.mn/",
-        "http://boke.xunda.nyc.mn/index.php"
+        "https://navigation.xunda.nyc.mn/"
+       
     ]
     
     for url in urls:
